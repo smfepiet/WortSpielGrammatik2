@@ -1,0 +1,9 @@
+welcomeMsg = Hallo, herzlich willkommen bei Wer Wird Millionär.
+wrongMsg = Das ist leider falsch.
+correctMsg = Das ist richtig
+continueMsg = Möchten Sie weiterspielen?
+congratsMsg = Herzlichen Glückwunsch! Sie haben eine Million Euro gewonnen.
+goodbyeMsg = tschüss bis zum nächsten mal!
+sumMsg = Sie haben {replacement} Punkte bekommen.
+errorYesNoMsg = Das habe ich nicht verstanden. Sagen Sie bitte ja oder nein.
+errorAnswerMsg = Das habe ich nicht verstanden. Sagen Sie bitte Verben, Nomen, Adjektiven, beenden oder wiederholen.
